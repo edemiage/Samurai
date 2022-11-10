@@ -3,7 +3,6 @@ package histoires;
 import personnages.Humain;
 import personnages.principaux.Commerçants;
 import personnages.principaux.Ronins;
-import personnages.principaux.Samurais;
 import personnages.principaux.Yakuzas;
 
 public class MonHistoire {
